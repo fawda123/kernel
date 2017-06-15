@@ -161,5 +161,4 @@ ggplot() +
 
 ![](kernel_ex_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
 
-
-
+Some kind of decomposition (different bandwidths, large for year, substract, etc.)? Compare with other methods? Relate to chemostatic/dynamic behavior? Apply on residuals? Compare with covariates?

@@ -120,5 +120,4 @@ ggplot() +
   theme_bw()
 ```
 
-
-
+Some kind of decomposition (different bandwidths, large for year, substract, etc.)? Compare with other methods? Relate to chemostatic/dynamic behavior? Apply on residuals? Compare with covariates?
